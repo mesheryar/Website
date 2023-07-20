@@ -1,0 +1,91 @@
+
+.one img{
+	height: 580px;
+	width: 100%;
+	background-size: cover;
+}
+#slider2{
+	padding-top: 70px
+}
+.come h5{
+	margin-left: 250px;
+
+}
+.button1{
+	margin-left: 250px;
+	border-radius: 20px;
+	border-color: silver;
+	height: 40px;
+}
+.button2{
+	
+	border-radius: 20px;
+	border-color: silver;
+	height: 40px;
+}
+
+.special h5{
+	margin-left: 60px
+}
+.special button{
+	border-radius: 20px;
+	border-color: silver;
+	height: 40px;
+}
+#butti{
+	padding-top: 50px;
+	text-align: center;
+	height: 200px
+}
+.travel{
+	background-color: lightblue;
+	height: 120px;
+	padding-top: 20px;
+}
+#slider3{
+	padding-top: 40px;
+}
+#slider3 img, p{
+	padding-top: 10px;
+	
+}
+#slider4{
+	padding-top: 40px;
+
+}
+.imgone{
+	background-image: url(img/6.jpeg);
+	height: 300px;
+	background-size: cover;
+
+}
+.imgone h5, h1, h6, h2, p, button{
+	margin-left:60px;
+
+}
+#slider4 .row {
+	padding-top: 70px
+}
+.button3{
+	border-radius: 20px;
+	border-color: silver;
+	height: 40px;
+}
+.button4{
+	border-radius: 20px;
+	border-color: silver;
+	height: 40px;
+}
+.imgtwo{
+	background-image: url(img/7.jpeg);
+	height: 300px;
+	background-size: cover;
+
+}
+.Top{
+	padding-top: 40px;
+	text-align: center;
+}
+#slider5{
+	padding-top: 50px
+}
